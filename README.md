@@ -1,6 +1,6 @@
-# gdg
-
-> GDG Tangier
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5eac155b-854f-4c26-90bc-40ee65532061/deploy-status)](https://app.netlify.com/sites/keen-engelbart-6b0b46/deploys)
+# GDG Morocco 
+Website for all GDG groups in Morocco
 
 ## Build Setup
 
