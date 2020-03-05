@@ -1,3 +1,4 @@
+require("dotenv").config()
 
 export default {
   mode: 'universal',
@@ -52,6 +53,14 @@ export default {
   */
   axios: {
   },
+  /*
+	 ** nuxt.js server options
+	 ** (can be overrided by environment variables)
+	 */
+	server: {
+		port: process.env.APP_PORT,
+		// host: "0.0.0.0"
+	},
   /*
   ** Build configuration
   */
