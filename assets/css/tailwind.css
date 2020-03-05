@@ -1,0 +1,19 @@
+@import './variables';
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+
+
+@font-face {
+	font-family: 'Product sans';
+	src: url('../fonts/ProductSansRegular.ttf');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'Product sans';
+	src: url('../fonts/ProductSansBold.ttf');
+	font-weight: 700;
+}
